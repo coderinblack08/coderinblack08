@@ -4,8 +4,9 @@
 - 🆅ue and ⚛️ React Diehard
 - 🆃ypescript Advocate
 - 💖 Node.js Lover
-- 🚀 Feathers.js Dev
+- 🚀 GraphQL Developer
 - 🥞 Full stack developer
+- 🧠🛩 Native code confuzes me
 - ⚔️ Competitive Programmer
 
 Check me out on my [personal website](https://coderinblack.now.sh)
