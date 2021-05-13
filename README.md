@@ -9,6 +9,5 @@ Here are some things you should know about me:
 - Full stack developer
 - I'm a Competitive Programmer ⚔️
 
-If you want to reach out about Presage, dm me @coderinblack.
-
+If you want to reach out about Presage, dm me [@coderinblack](https://twitter.com/coderinblack].
 Learn more about me on my [personal website](https://coderinblack.now.sh).
