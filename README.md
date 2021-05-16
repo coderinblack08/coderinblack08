@@ -12,3 +12,7 @@ Here are some things you should know about me:
 If you want to reach out about Presage, dm me [@coderinblack](https://twitter.com/coderinblack).
 
 Learn more about me on my [personal website](https://coderinblack.now.sh).
+
+## Useless stats
+
+![](https://github-readme-stats.vercel.app/api?username=coderinblack08)
