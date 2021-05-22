@@ -15,4 +15,5 @@ Learn more about me on my [personal website](https://coderinblack.now.sh).
 
 ## Useless stats
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderinblack08&layout=compact&theme=onedark&langs_count=15)
 ![](https://github-readme-stats.vercel.app/api?username=coderinblack08)
