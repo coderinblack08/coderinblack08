@@ -1,4 +1,4 @@
-# I'm Kevin (or 天衡) 👋
+# Hello I'm Kevin 👋
 Here are some things you should know about me:
 - I'm a middle school developer
 - Working on my audio-centric media startup [presage](https://github.com/coderinblack08/presage)
