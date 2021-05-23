@@ -1,6 +1,7 @@
 # Hello I'm Kevin 👋
 Here are some things you should know about me:
 - I'm a middle school developer
+- I love comp-math (7th grade AIME qual)
 - Working on my audio-centric media startup [presage](https://github.com/coderinblack08/presage)
 - React and Typescript fanboy
 - GraphQL > REST
