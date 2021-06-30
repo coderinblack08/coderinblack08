@@ -2,13 +2,10 @@
 Here are some things you should know about me:
 - I'm a middle school developer
 - I love comp-math (7th grade AIME qual)
-- Working on my audio-centric media startup [presage](https://github.com/coderinblack08/presage)
+- Working on my startup [presage](https://github.com/coderinblack08/presage) with [Jonas Kgomo](https://twitter.com/jonas_kg)
 - React and Typescript fanboy
-- GraphQL > REST
-- I listen to Wowkie Zhang (大张伟）a lot.
-- Working with ⚡️Supabase
-- Full stack developer
-- I'm a Competitive Programmer ⚔️
+- I bop to Wowkie Zhang (大张伟）and wayv.
+- I do competitive programming (USACO, codeforces, etc.)
 
 If you want to reach out about Presage, dm me [@coderinblack](https://twitter.com/coderinblack).
 
