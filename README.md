@@ -4,7 +4,6 @@ Here are some things you should know about me:
 - I love comp-math (7th grade AIME qual)
 - Working on my startup [presage](https://github.com/coderinblack08/presage)
 - React and Typescript fanboy
-- I bop to Wowkie Zhang (大张伟）and wayv.
 - I do competitive programming (USACO, codeforces, etc.)
 
 If you want to reach out about Presage, dm me [@coderinblack](https://twitter.com/coderinblack).
