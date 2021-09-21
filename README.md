@@ -2,7 +2,7 @@
 Here are some things you should know about me:
 - I'm a middle school developer
 - I love comp-math (7th grade AIME qual)
-- Working on my startup [presage](https://github.com/coderinblack08/presage) with [Jonas Kgomo](https://twitter.com/jonas_kg)
+- Working on my startup [presage](https://github.com/coderinblack08/presage)
 - React and Typescript fanboy
 - I bop to Wowkie Zhang (大张伟）and wayv.
 - I do competitive programming (USACO, codeforces, etc.)
