@@ -1,15 +1,12 @@
 # Hello I'm Kevin 👋
 Here are some things you should know about me:
 - I'm a middle school developer
-- Getting censorsed by my school :)
-- I love comp-math (7th grade AIME qual)
+- I do comp-math (7th grade AIME qual)
 - Working on my startup [presage](https://github.com/coderinblack08/presage)
 - React and Typescript fanboy
 - I do competitive programming (USACO, codeforces, etc.)
 
 If you want to reach out about Presage, dm me [@coderinblack](https://twitter.com/coderinblack).
-
-Learn more about me on my [personal website](https://coderinblack.now.sh).
 
 ## Useless stats
 
